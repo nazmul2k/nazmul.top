@@ -1,0 +1,5 @@
+baseURL = 'https://nazmul.top/'
+languageCode = 'en-us'
+title = "Nazmul's Website"
+theme='lugo'
+favicon = 'favicon.ico'
