@@ -13,6 +13,50 @@ img {
 	max-width: 100% ;
 }
 
+.biocontainer {
+	display: flex;
+    	align-items: center;
+    	flex-direction: column;
+}
+
+.biocontainer a {
+    text-decoration: none;
+    color: red !important;
+    border: 2px solid white;
+    width: 100%;
+    margin: 7px;
+    border-radius: 17px;
+    display: flex;
+    justify-content: center;
+}
+
+.bioimage-container {
+    height: 96px;
+    width: 96px;
+    border-radius: 48px;
+    overflow: hidden;
+}
+
+.bioimage-container img {
+    height: 100%;
+}
+
+a:link {
+  color: #33bbff;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}
+
 header h1 {
 	text-align: center ;
 }
