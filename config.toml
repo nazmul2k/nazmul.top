@@ -1,5 +1,9 @@
 baseURL = 'https://nazmul.top/'
 languageCode = 'en-us'
 title = "Nazmul Hasan's Website"
-theme='lugo'
+theme = 'lugo'
 favicon = 'favicon.ico'
+enableEmoji = true
+enableRobotsTXT = true
+[params]
+     Description = "All of Nazmul Hasan's contents in one place"
