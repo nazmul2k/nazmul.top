@@ -560,7 +560,7 @@ blockquote {
 	display: flex;
     align-items: center;
     flex-direction: row;
-	
+	flex-wrap: wrap;	
 }
 .biocontainer a {
     text-decoration: none;
