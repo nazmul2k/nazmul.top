@@ -29,3 +29,5 @@ adb shell pm uninstall --user 0 "app_name_here"
 pm uninstall --user 0 "app_name_here"
 ```
 > use the `-k` option if you need to keep the user data
+
+Useful Links: [miui bloat remove](https://selivan.github.io/2020/02/25/removing-bloatware-from-xiaomi-miui-android.html) - [install removed apps](https://xdaforums.com/t/how-to-install-get-back-uninstalled-apps-apks-with-adb.3894235/) - [Method 2](https://xdaforums.com/t/how-to-install-get-back-uninstalled-apps-apks-with-adb.3894235/page-4#post-84291287)
